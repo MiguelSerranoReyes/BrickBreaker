@@ -1,3 +1,4 @@
+# Bibliotecas a importar
 import pygame
 import os, sys
 
